@@ -1,2 +1,3 @@
 # digit-recognizer
-Personal homework.
+Personal homework.  
+Run ` python main.py` to execute codes.
